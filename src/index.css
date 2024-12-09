@@ -1,0 +1,103 @@
+.color-body {
+  background-color: #f8f8f8;
+  min-height: 100vh;
+}
+.font {
+  font-family: "Almarai", sans-serif;
+}
+.title {
+  color: #224f61;
+  font-family: Almarai;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 64px;
+  margin-top: 5px;
+}
+.underline {
+  height: 1px;
+  width: 120px;
+  border-radius: 10px;
+  border: 2px solid #b45b35;
+}
+.btn {
+  color: black;
+  font-weight: bold;
+  font-family: "Almarai", sans-serif;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 24px;
+  transition: 0.3s;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -o-transition: 0.3s;
+}
+.btn:hover {
+  color: black;
+  font-family: "Almarai", sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 24px;
+  border-radius: 11px;
+  border: none;
+  background-color: #b45b35;
+}
+.img-item {
+  border-radius: 5px;
+}
+
+@media (min-width: 768px) {
+  .img-item {
+    height: 180px;
+    width: 250px;
+  }
+}
+
+.item-description {
+  color: #8c8c8c;
+  font-family: Almarai;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.item-title {
+  color: #555555;
+  font-family: Almarai;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.card-color {
+  background-color: #f8f8f8;
+}
+.item-price {
+  color: #b45b35;
+  font-family: Almarai;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.btn-search {
+  color: #b45b35;
+  border-radius: 3px solid #b45b35;
+  border-radius: 8px;
+  background-color: white;
+  transition: 0.3s;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -o-transition: 0.3s;
+}
+.btn-search:hover {
+  color: white;
+  border-radius: 3px solid white;
+  background-color: #b45b35;
+  border-radius: 8px;
+}
+.brand-color {
+  color: #b45b35;
+}
