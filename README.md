@@ -53,9 +53,7 @@ Can be customized with different titles for various pages.
 
 git clone git@github.com:YousifAdel170/menu-react-app.git
 
-### 2. Navigate into the project folder:
-
-Install dependencies:
+### 2. Navigate into the project folder and Install dependencies
 
 ### 3. Run the app:
 
