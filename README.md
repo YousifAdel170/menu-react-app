@@ -2,6 +2,8 @@
 
 A dynamic and interactive React app that displays data-driven components such as a Card, Category list, Header, and Navbar. The app is designed to be fully customizable and includes features like language toggling (Arabic/English) and live search functionality.
 
+## Live Demo: https://yousifadel170.github.io/menu-react-app/
+
 ## Features:
 
 ### Card Component:
